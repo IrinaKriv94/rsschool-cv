@@ -1,0 +1,56 @@
+.myDiv {
+    text-align: center 
+  }
+.myDiv1 {
+  width: 500px;
+  height: 200px;
+  background-color: rgb(184, 158, 158);
+}
+.myDiv1 {
+    border: 5px outset blue;
+    background-color: lightblue;
+    padding: 20px
+  }
+  .myDiv2 {
+    border: 5px outset blue;
+    background-color: lightblue;
+    padding: 20px   
+  }
+.myDiv2 {
+  width: 500px;
+  height: 100px;
+  background-color: rgb(158, 184, 169);
+}
+  .myDiv3 {
+    border: 5px outset blue;
+    background-color: lightblue;
+    padding: 20px;
+  }
+.myDiv3 {
+  width: 500px;
+  height: 200px; 
+  background-color: rgb(129, 95, 105);
+}
+  .myDiv4 {
+    border: 5px outset blue;
+    background-color: lightblue;
+    padding: 20px;
+  }
+  .myDiv4 {
+    width: 500px;
+    height: 100px;
+    background-color: rgb(168, 118, 147);
+  }
+  .nav {
+    padding-right: 0%;
+    margin-right: 0%;
+    background-color: rgba(21, 61, 64, 0.7);
+    display:inline;
+
+  }  
+  .hr {
+    border: none;
+    background-color: rgb(6, 4, 63);
+    color: rgb(6, 4, 63);
+    height: 10px;
+  }  
